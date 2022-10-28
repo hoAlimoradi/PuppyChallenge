@@ -2,7 +2,7 @@
 //  PuppyChallengeUITests.swift
 //  PuppyChallengeUITests
 //
-//  Created by Hosein Alimoradi on 8/3/1401 AP.
+//  Created by Hosein Alimoradi .
 //
 
 import XCTest

@@ -1,0 +1,6 @@
+framework module Pods_PuppyChallenge {
+  umbrella header "Pods-PuppyChallenge-umbrella.h"
+
+  export *
+  module * { export * }
+}
